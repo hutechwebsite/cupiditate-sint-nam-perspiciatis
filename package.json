@@ -1,18 +1,49 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@hutechwebsite/cupiditate-sint-nam-perspiciatis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "duongvi123",
   "license": "MIT",
+  "dependencies": {
+    "@hutechwebsite/beatae-animi-non-optio": "^1.0.0",
+    "@hutechwebsite/soluta-eius-nesciunt-a": "^1.0.0",
+    "coding-course-api": "^0.1.2",
+    "saoviet-caculator": "^0.1.2",
+    "saoviet-caculator-module": "^0.1.1"
+  },
+  "keywords": [
+    "stable",
+    "fullwidth",
+    "swf",
+    "parser",
+    "ArrayBuffer",
+    "packages",
+    "ES2019",
+    "safe",
+    "sqs",
+    "mkdirp",
+    "live",
+    "byteOffset",
+    "reduce",
+    "espree",
+    "byte",
+    "configurable",
+    "ECMAScript 6",
+    "validate",
+    "lazy",
+    "redirect",
+    "Array.prototype.findLast",
+    "east-asian-width",
+    "colour"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/hutechwebsite/cupiditate-sint-nam-perspiciatis.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/hutechwebsite/cupiditate-sint-nam-perspiciatis/#readme",
+  "bugs": {
+    "url": "https://github.com/hutechwebsite/cupiditate-sint-nam-perspiciatis/issues"
   }
 }
